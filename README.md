@@ -4,7 +4,7 @@ Public Domain Works by தங்கவேலுமுதலியார் (Than
 
 ## மாரியம்மன் தாலாட்டு
 
-Tamil - Plain Text  
+[Tamil - Plain Text](mariamman/full-text-tamil.md)  
 Tamil - PDF | Computer Modern | Coelacanth | Atkinson | Alegreya | Auriocus | Kerkis | Artemisia | Custom01 | Custom02  
 English - Plain Text  
 English - PDF  
