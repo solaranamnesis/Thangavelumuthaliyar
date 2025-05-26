@@ -34,6 +34,8 @@
 
 ---
 
+[படம்](https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/fig001.png)
+
 ௳  
 
 பராசத்தி அனை.  
