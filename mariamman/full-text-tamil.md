@@ -74,6 +74,8 @@
 முத்தாலேதண்டைகொஞ்ச முன்னடவாய்பிள்ளையாரே  
 செல்வக்கணபதியுன் சீர்பாதம்நான்மறவேன்.
 
+---
+
 [சாஸ்வதி துதி.](https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/fig003.png)
 
 ...
