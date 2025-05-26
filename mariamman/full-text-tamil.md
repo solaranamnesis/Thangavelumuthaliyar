@@ -81,6 +81,6 @@
 
 ---
 
-[சாஸ்வதி துதி.](https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/fig003.png)
+[சரஸ்வதி துதி.](https://cdn.solaranamnesis.com/Thangavelumuthaliyar/mariamman/fig003.png)
 
 ...
