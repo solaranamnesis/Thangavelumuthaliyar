@@ -1,5 +1,6 @@
 %XeLaTeX
 \documentclass{article}
+\usepackage{lscape}
 \usepackage{fontspec}
 \setmainfont{DejaVu Serif}
 \newfontfamily{\tam}[Script=Tamil]{NotoSerifTamilSlanted-Regular}
@@ -7,7 +8,7 @@
 \defaultfontfeatures{Scale=MatchLowercase}
 \usepackage[dvipsnames]{xcolor}
 \usepackage{eso-pic,graphicx}
-\usepackage[top=81mm, bottom=81mm, outer=51mm, inner=51mm]{geometry}
+\usepackage[top=51mm, bottom=51mm, outer=80mm, inner=80mm, landscape]{geometry}
 \usepackage{graphicx}
 \graphicspath{ {./ } }
 \usepackage[figurename=]{caption}
@@ -70,7 +71,7 @@
 \vspace*{\fill}  
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.7\textwidth,keepaspectratio]{white/fig001.png}
+\includegraphics[width=0.75\textwidth,keepaspectratio]{white/fig001.png}
 \end{figure}
 \vspace*{\fill}  
 \clearpage
