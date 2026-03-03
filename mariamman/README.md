@@ -12,3 +12,5 @@ KennyOMG, Meenakshi Amman West Tower, Image Cropped and Edited by Solar Anamnesi
 Rengeshb, View of Lord Nataraja at Temple museum, Image Edited by Solar Anamnesis, CC BY-SA 3.0
 
 Meul (Meul), Lotus, Imaged Edited by Solar Anamnesis, CC BY-SA 3.0
+
+Pillaiyar Suḻi AS7488SA, CC BY-SA 4.0, via Wikimedia Commons, edit by Solar Anamnesis, CC BY-SA 4.0.
